@@ -3,7 +3,7 @@ hydra-user-service
 hydra-batch-service
 hydra-curriculum-service
 hydra-gateway-service
-hydra-configuration
+hydra-configurationBAM
 hydra-discovery-service
 hydra-config-service
 hydra-hystrix-dashboard
