@@ -5,7 +5,7 @@
     "hydra-batch-service": "https://github.com/revature1802Feb12USF/hydra-batch-serviceBAM.git",
     "hydra-curriculum-service": "https://github.com/revature1802Feb12USF/hydra-curriculum-serviceBAM.git",
     "hydra-gateway-service": "https://github.com/revature1802Feb12USF/hydra-gateway-service.git",
-    "hydra-configuration": "https://github.com/revature1802Feb12USF/hydra-configurationBAM.git",
+    "hydra-configurationBAM": "https://github.com/revature1802Feb12USF/hydra-configurationBAM.git",
     "hydra-discovery-service": "https://github.com/revature1802Feb12USF/hydra-discovery-service.git",
     "hydra-config-service": "https://github.com/revature1802Feb12USF/hydra-config-service.git",
     "hydra-hystrix-dashboard": "https://github.com/revature1802Feb12USF/hydra-hystrix-dashboardBAM.git",
