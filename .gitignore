@@ -1,0 +1,10 @@
+hydra-topic-service
+hydra-user-service
+hydra-curriculum-service
+hydra-batch-service
+hydra-gateway-service
+hydra-configuration
+hydra-config-service
+hydra-hystrix-dashboard
+hydra-discovery-service
+janus-webapp
